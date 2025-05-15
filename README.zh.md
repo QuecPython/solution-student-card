@@ -1,6 +1,6 @@
 # QuecPython 智能学生卡方案
 
-中文 | [English](README.MD)
+中文 | [English](README.md)
 
 ## 简介
 
